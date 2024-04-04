@@ -1,2 +1,2 @@
-# ps5-nova-gera-o
+# ps5-nova-geracao
 Projeto página divulgação lançamento novo PS5.
