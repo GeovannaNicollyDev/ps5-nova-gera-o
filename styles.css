@@ -1,0 +1,35 @@
+.meu-ps5titulo {
+    background-color: rgb(99, 141, 232);
+    background-size: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.meu-ps5tituloaranha {
+    background-color: rgb(169, 76, 76);
+    background-size: 10px;
+    color: rgb(0, 0, 0);
+}
+
+.meu-ps5{
+    font-size: x-large;
+    border: 3px solid rgb(99,141,232);
+}
+
+.meu-ps5aranha{
+    font-size: 22px;
+    border: 3px solid rgb(169, 76, 76);
+}
+
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-image: url("logops5.jpg")
+}
+
+body{
+    background-repeat: no-repeat;
+}
+
+body{
+    background-position: center;
+}
